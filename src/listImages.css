@@ -1,0 +1,15 @@
+.img{
+    height: 5%;
+    width: 5%;
+}
+
+#button{
+   margin-left: 35%;
+   background-color: red;
+   margin-top: 20%;
+   height: 60px;
+   width: 20%;
+   border: red;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
